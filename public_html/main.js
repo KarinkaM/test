@@ -13,11 +13,11 @@ $(document).ready(function () {
     //t.text(text);
 
     var str = 'Text1';
-        
-    
+
+
     //var str2 = 'Test ' + str + ' uuuuu';
 
-//    var str3 = '10';
+    var str3 = '10';
 //    str3 = parseInt(str3); // Привести текст к числу
 //    str3 += 1;
 
