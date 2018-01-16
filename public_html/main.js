@@ -12,7 +12,7 @@ $(document).ready(function () {
 
     //t.text(text);
 
-    var str = 'Text1';
+    //var str = 'Text1';
 
 
     //var str2 = 'Test ' + str + ' uuuuu';
